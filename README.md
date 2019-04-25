@@ -19,6 +19,9 @@ A pack of various themes for Tmux.
     `source-file` command to avoid a `no such file or directory` error:
     
         source-file ${HOME}/.tmux-themepack/powerline/block/cyan.tmuxtheme
+        
+3. Make sure your terminal app is configured to have this:
+In iterm2, in Preferences->Profiles->keys->Left Option Key->set it to "Esc+"
 
 ### Install using [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 
